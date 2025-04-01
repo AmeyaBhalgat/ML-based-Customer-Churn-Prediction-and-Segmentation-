@@ -6,7 +6,7 @@ Using a dataset that includes customer demographics, usage data, and whether the
 
 
 ## 📌 Problem Definition
-The `Customer Churn table` contains information on all `7,043` customers from a `Telecommunications company` in California in Q2 2022
+The `Customer Churn table` contains information on all `10000+` customers from a `Telecommunications company` in California in Q2 2022
 
 Each record represents `one customer`, and contains details about their `demographics`, `location`, `tenure`, `subscription services`, `status for the quarter` `(joined, stayed, or churned)`, and more!
 
