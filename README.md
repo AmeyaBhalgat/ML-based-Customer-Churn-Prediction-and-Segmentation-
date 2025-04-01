@@ -15,7 +15,7 @@ The `Zip Code Population` table contains complimentary information on the estima
 We need to `predict` whether the customer will `churn`, `stay` or `join` the company based on the parameters of the dataset.
 <br><br>
 
-## 👀 Screenshots
+## Screenshots
 
 <img src = "/Images/2.png">
 <img src = "/Images/3.png">
